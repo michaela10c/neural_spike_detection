@@ -6,4 +6,4 @@ Note that this notebook is used only for educational and demonstration purposes,
 
 The original patent is also uploaded. 
 
-If there are any questions, please contact me at mgz2112@columbia.edu. 
+If you have any questions, please contact me at mgz2112@columbia.edu. 
