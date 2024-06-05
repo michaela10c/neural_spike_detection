@@ -1,4 +1,4 @@
-# Real-Time Neural Spike Detection
+# Neural Spike Detection
 
 This is the Python Jupyter notebook for Neuralink patent no. US 2021/0012909 A1, titled "Real-Time Neural Spike Detection". 
 
